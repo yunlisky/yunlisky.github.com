@@ -7,15 +7,15 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 paginate: 5
 
-title : 做好现在的事儿
-tagline: 爱生活，爱技术，爱科技，爱折腾
+title : 没事找事
+tagline: 
 author :
-  name : stormzhang
-  description: Android Developer, Google Fans, Like OpenSource
-  email : zhangqi.dev@qq.com
-  github : https://github.com/stormzhang
-  twitter : http://twitter.com/storm4android
-  simple_search: http://google.com/search
+  name : Tang Jiahao
+  description: 不写代码
+  email : 1398319325@qq.com
+  github : 
+  twitter : 
+  simple_search: 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -25,12 +25,12 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://stormzhang.com
+production_url : http://www.yunlisky.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 codepiano :
-  version : 0.3.0
+  version : 0.0.1
 
   # All links will be namespaced by BASE_PATH if defined.
   # Links in your website should always be prefixed with {{BASE_PATH}}
